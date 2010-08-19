@@ -1,0 +1,5 @@
+build/
+dist/
+scikits.bspline.egg-info/
+*.pyc
+*~
