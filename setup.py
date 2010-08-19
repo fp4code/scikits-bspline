@@ -3,7 +3,7 @@
 
 # Copyright (C) 2010 Fabrice Pardo <fp4code@gmail.com>
 
-descr   = """scikits.spline package.
+descr   = """scikits.bspline package.
 
 Several ways to choose the sign of a complex square root... 
 """
@@ -11,14 +11,14 @@ Several ways to choose the sign of a complex square root...
 import os
 import sys
 
-DISTNAME            = 'scikits.spline'
-DESCRIPTION         = 'Scikits spline package'
+DISTNAME            = 'scikits.bspline'
+DESCRIPTION         = 'Scikits bspline package'
 LONG_DESCRIPTION    = descr
 MAINTAINER          = 'Fabrice Pardo',
 MAINTAINER_EMAIL    = 'fp4code@gmail.com',
-URL                 = 'http://github.com/fp4code/scikits.spline'
+URL                 = 'http://github.com/fp4code/scikits.bspline'
 LICENSE             = 'MIT'
-DOWNLOAD_URL        = 'http://github.com/fp4code/scikits.spline/tarball/master'
+DOWNLOAD_URL        = 'http://github.com/fp4code/scikits.bspline/tarball/master'
 VERSION             = '0.0.1'
 
 import setuptools
